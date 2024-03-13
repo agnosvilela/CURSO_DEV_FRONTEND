@@ -35,3 +35,14 @@ while (contador4 < nomes.length) {
     console.log(nomes[contador4]);
     contador4++;
 }
+
+let contador5 = 0;
+
+let meses = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
+
+do {
+
+    console.log(meses[contador]);
+    contador5++;
+
+} while (contador5 < meses.length);
